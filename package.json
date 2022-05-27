@@ -1,0 +1,21 @@
+{
+  "name": "devcamp-js-footer",
+  "version": "0.1.0",
+  "description": "This modile allows for a dynamic footer to begenerated for Js applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "https://github.com/edoardogunelli/devcamp-js-footer"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http//github.com/edoardogunelli/devcamp-js-footer"
+  },
+  "keywords": [
+    "footer"
+  ],
+  "author": "Edoardo Gunelli",
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.29.3"
+  }
+}
